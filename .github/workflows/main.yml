@@ -1,0 +1,9 @@
+{
+  query {
+    starterEntities(first: 10) {
+      nodes {
+        field1
+      }
+    }
+  }
+}
